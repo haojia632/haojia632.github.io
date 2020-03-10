@@ -1,5 +1,6 @@
 ---
 layout: home
+title：主页
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
