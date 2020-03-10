@@ -2,7 +2,7 @@ title: Intelligent Design @ BIT
 author:
   name: 郝佳
   email: haojia632@bit.edu.cn
-description: Intelligent Design
+description: 北京理工大学智能设计课题组
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,8 +12,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  haojia632
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
