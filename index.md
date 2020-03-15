@@ -45,8 +45,6 @@ Any partner can opt out of the ISRP by informing Guoxin Wang, Farrokh Mistree, a
 
 
 
-# News Update of ISRP
-
 
 
 
