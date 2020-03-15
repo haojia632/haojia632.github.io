@@ -41,7 +41,7 @@ Any partner can opt out of the ISRP by informing Guoxin Wang, Farrokh Mistree, a
 
 # The Academic Family of ISRP
 
-
+![image-20200315092400964](index.assets/image-20200315092400964.png)
 
 
 

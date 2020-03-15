@@ -1,29 +1,45 @@
 ---
 layout: page
-title: 团队
+title:  People
 ---
 
 
 
-## 博士生
+# Professors
 
-| <img src="people.assets/%E5%9B%BE%E7%89%87%201.jpg" style="zoom:20%;" /> |        |        |        |      |      |      |      |
-| ------------------------------------------------------------ | ------ | ------ | ------ | ---- | ---- | ---- | ---- |
-| 牛红伟                                                       | 贾良跃 | 叶文斌 | Noaman |      |      |      |      |
+|                           |                         |               |                |                           |
+| ------------------------- | ----------------------- | ------------- | -------------- | ------------------------- |
+| Farrokh Mistree           | Janet K Allen           | Dirk Scheafer | Jitesh Panchal | Yan Yan                   |
+|                           |                         |               |                |                           |
+| Guoxin Wang               | Kemper Lewis            | Jia Hao       | Zhenjun Ming   | Jelena Milisavljevic-Syed |
+|                           |                         |               |                |                           |
+| Jelena Milisavljevic-Syed | Anand Balu Nellippallil | Raj Prabhu    |                |                           |
+
+# Post Doc
+
+|              |           |        |      |      |      |      |      |
+| ------------ | --------- | ------ | ---- | ---- | ---- | ---- | ---- |
+| Ru Wang |  | ...... |      |      |      |      |      |
+
+# PhD Students
+
+|              |           |        |      |      |      |      |      |
+| ------------ | --------- | ------ | ---- | ---- | ---- | ---- | ---- |
+| Liangyue Jia | Silai Wan | ...... |      |      |      |      |      |
 
 
 
 
 
-## 硕士生
+# Master Students
 
 |        |        |        |        |      |      |        |      |
 | ------ | ------ | ------ | ------ | ---- | ---- | ------ | ---- |
-| 龙辉   | 周梦莹 | 霍阳阳 | 曾梦梦 | 王璐 | 安鹏 | 王嘉蕙 | 赵雷 |
+|    |  | | |  | |  | |
 |        |        |        |        |      |      |        |      |
-| 杨思宇 | 朱志成 | 王子曌 | 曹贝宁 |      |      |        |      |
+|  | |  | |      |      |        |      |
 
 
 
-## 毕业生
+# Graduate Students
 

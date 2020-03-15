@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于
+title: About
 ---
 
 
@@ -9,3 +9,4 @@ title: 关于
 邮编：
 
 电话：
+
