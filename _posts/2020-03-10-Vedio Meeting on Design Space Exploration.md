@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 设计空间探索讨论会议顺利召开
+title: Design space Exploration Video Meeting
 ---
 
