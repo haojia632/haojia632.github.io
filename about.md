@@ -9,6 +9,12 @@ title: About
 
 [System Realization @ OU](http://srl.ou.edu/ )
 
+<img src="about.assets/image-20200315114913272.png" alt="image-20200315114913272" style="zoom:33%;" />
+
+[Knowledge Engineering Lab @ BIT](http://www.bit.edu.cn)
+
+
+
 <img src="about.assets/image-20200315111818197.png" alt="image-20200315111818197" style="zoom:67%;" />
 
 [Design Engineering Lab @ Purdu](https://engineering.purdue.edu/DELP/) 
