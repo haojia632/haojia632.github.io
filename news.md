@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Home
+title: News
 ---
 
 
