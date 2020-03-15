@@ -3,6 +3,12 @@ layout: page
 title: CBDS Platform
 ---
 
+
+
+Using [this link](https://www.google.com) to access our CBDS platform
+
+
+
 # An brief introduction of CBDS
 
 
@@ -13,13 +19,4 @@ title: CBDS Platform
 
 # The whole  framework of CBDS
 
-
-
-
-
-# Using the following address for accessing CBDS
-
-
-
-[CBDS]: https://www.google.com	"CBDS Platform"
 

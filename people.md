@@ -7,19 +7,19 @@ title:  People
 
 # Professors
 
-|                           |                         |               |                |                           |
-| ------------------------- | ----------------------- | ------------- | -------------- | ------------------------- |
-| Farrokh Mistree           | Janet K Allen           | Dirk Scheafer | Jitesh Panchal | Yan Yan                   |
-|                           |                         |               |                |                           |
-| Guoxin Wang               | Kemper Lewis            | Jia Hao       | Zhenjun Ming   | Jelena Milisavljevic-Syed |
-|                           |                         |               |                |                           |
-| Jelena Milisavljevic-Syed | Anand Balu Nellippallil | Raj Prabhu    |                |                           |
+|                         |               |               |                |                           |
+| ----------------------- | ------------- | ------------- | -------------- | ------------------------- |
+| Farrokh Mistree         | Janet K Allen | Dirk Scheafer | Jitesh Panchal | Yan Yan                   |
+|                         |               |               |                |                           |
+| Guoxin Wang             | Kemper Lewis  | Jia Hao       | Zhenjun Ming   | Jelena Milisavljevic-Syed |
+|                         |               |               |                |                           |
+| Anand Balu Nellippallil | Raj Prabhu    |               |                |                           |
 
 # Post Doc
 
 |              |           |        |      |      |      |      |      |
 | ------------ | --------- | ------ | ---- | ---- | ---- | ---- | ---- |
-| Ru Wang |  | ...... |      |      |      |      |      |
+| Ru Wang | ...... |  |      |      |      |      |      |
 
 # PhD Students
 
