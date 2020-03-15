@@ -5,7 +5,7 @@ title: Home
 
 
 
-## An Brief Introduction of ISRP
+# An Brief Introduction of ISRP
 
 The International Systems Realization Partnership was established in November 2015 between faculty at the Institute for Industrial Engineering @ Beijing Institute of Technology, the Design Engineering Laboratory @ Purdue and the Systems Realization Laboratory @ OU.  
 
@@ -29,7 +29,7 @@ In addition to the founding partners the ISRP includes:
 - Jia Hao	Institute for Industrial Engineering @ Beijing Institute of Technology, China
 - Ru Wang	Institute for Industrial Engineering @ Beijing Institute of Technology, China
 
-## Principles of Collaboration between Partners
+# Principles of Collaboration between Partners
 
 In the ISRP the partners will focus on fundamental research that leads to scholarly publications, using information in the public domain, involving no proprietary information, or commercial or industrial application.  They will file no patent disclosures or file for patents of outcomes of this collaboration.  They will ensure that research collaboration is in compliance with the United States of America’s Export Control Classification Number (ECCN) 2E003;  see Appendix G.  They will actively seek international and domestic project funding, share computational platforms, share data, and conduct collaborative research that results in scholarly publications.  The collaboration between the partners will include the following:
 
@@ -39,13 +39,13 @@ In the ISRP the partners will focus on fundamental research that leads to schola
 
 Any partner can opt out of the ISRP by informing Guoxin Wang, Farrokh Mistree, and Dirk Schaefer in writing.
 
-## The Academic Family of ISRP
+# The Academic Family of ISRP
 
 
 
 
 
-## News Update of ISRP
+# News Update of ISRP
 
 
 
