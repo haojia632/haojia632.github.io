@@ -47,10 +47,10 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
- - outcome.md
+ - news.md
  - people.md
+ - outcome.md
  - cbds.md
-#  - teach.md
  - about.md
 
 # Build settings
