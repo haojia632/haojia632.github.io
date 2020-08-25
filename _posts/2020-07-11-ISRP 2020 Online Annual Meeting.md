@@ -36,6 +36,14 @@ our ISRP 2020 On Line Annual Meeting, several presentations are made, the follow
 - [5 minutes talk - Hailie Suk](https://drive.google.com/file/d/12xgpmITOUwG5xIfce8CvRVrj8aoaDodg/view?usp=sharing)
 - [5 minutes talk - Yanwei Sun](https://drive.google.com/file/d/10nwXzhHh9xLRQw8t_Ff49MkvjXjUUpgz/view?usp=sharing)
 - [5 minutes talk - Silai Wan](https://drive.google.com/file/d/1b6s8P9sKIr2oziqHO3KNT3FDJwHgEyVn/view?usp=sharing)
-
+- [Zhenjun’s Research Plan Overview @ BIT - Zhenjun Ming](https://drive.google.com/file/d/1qCGcPLqsMHu6TuvbB2_5_hA2eoQQqXY8/view?usp=sharing)
+- [Overview of Guoxin’s Research - Jinzhi Lu](https://drive.google.com/file/d/1ghFPNyoN1lQQDhr5GdExuPiieMiEmzk8/view?usp=sharing)
+- [Text mining for Engineering Education - Farrokh Mistree](https://drive.google.com/file/d/15jmAqWJwGaUhn8VOXJ3eDLTsWTHOluI2/view?usp=sharing)
+- [5-min talk - Yanwei Sun](https://drive.google.com/file/d/1Zc68yuXZtHLXV_l7KdMVgKhFFBgT-jpw/view?usp=sharing)
+- [5-min talk - Reza Alizadeh](https://drive.google.com/file/d/1opBTX_7yevFXSgmEAnEraYZwhkG_0Wp9/view?usp=sharing)
+- [5-min talk - Peng An](https://drive.google.com/file/d/1V31sBkzh3yDz-7N8ZhjMdzxbdahzhUBU/view?usp=sharing)
+- [5-min talk - Mengying Zhou](https://drive.google.com/file/d/1nlmyTBDDhdZ2tF1HO_jccj0lXlJXtv2k/view?usp=sharing)
+- [5-min talk - Hamid Khakpour](https://drive.google.com/file/d/1XxN47nJTaN5Gq5nB5PmjvnP9GBjLspAH/view?usp=sharing)
+- [Report-WayForward - All ISRP Members](https://drive.google.com/file/d/1TUgZ3ycLysEki71lhjFe0uYW7oYvUZUc/view?usp=sharing)
 
 
